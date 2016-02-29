@@ -14,7 +14,7 @@ The key components are:
 
 
 ### Lets set up the environment
-Copy or clone the repo to the directory from where you want to run the app
+From your node server prompt, Copy or clone the repo to the directory from where you want to run the app
 
 #### Install the dependancies
 The necessary dependancies are added to the `package.json` file. To install them run, 
