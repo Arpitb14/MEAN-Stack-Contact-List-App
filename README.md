@@ -1,7 +1,7 @@
 # MEAN RESTful API - Single Page App - Contact List
 A MEAN stack contact list single page application
-![MEAN Stack](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/mean-stack-tutorial.jpg)
-Format: ![MEAN Stack Logo](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/mean-stack-tutorial.jpg)
+
+         ![MEAN Stack](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/mean-stack-tutorial.jpg)
 
 This repo contains the code for a RESTful API Contact List App that was built using the MEAN stack, This app assumes you have necessary expertise in reading and writing `node.js` apps. If not check out these [resources](https://github.com/ericdouglas/MEAN-Learning)
 
@@ -37,7 +37,7 @@ Set up your account(or setup your mongodb locally), Create a new database and us
 
 These configs will be need to changed on file `./database/connect-to-database.js`, 
 ```
-mongoose.connect("mongodb://<db-user-name>:<db-user-password>@dsXXXXX.mlab.com:<XXXX>/<Database-Name>");
+mongoose.connect("mongodb://<db-user-name>:<db-user-password>@dsXXXXX.mlab.com:<XXXX>/<Database-Name>")
 ```
 
 #### Lets start the node server
@@ -49,5 +49,6 @@ node server.js &
 ```
 
 ##### Contact List Running
+![App Running on 8081](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/App-Screenshot01.jpg)
 
 
