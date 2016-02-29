@@ -1,7 +1,7 @@
 # MEAN RESTful API - Single Page App - Contact List
 A MEAN stack contact list single page application
 
-         ![MEAN Stack](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/mean-stack-tutorial.jpg)
+![MEAN Stack](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/mean-stack-tutorial.jpg)
 
 This repo contains the code for a RESTful API Contact List App that was built using the MEAN stack, This app assumes you have necessary expertise in reading and writing `node.js` apps. If not check out these [resources](https://github.com/ericdouglas/MEAN-Learning)
 
@@ -48,7 +48,7 @@ If you are happy with everything, run
 node server.js &
 ```
 
-##### Contact List Running
+##### Contact List App Running
 ![App Running on 8081](https://raw.githubusercontent.com/miztiik/MEAN-Stack-Contact-List-App/master/images-for-readme/App-Screenshot01.jpg)
 
 
